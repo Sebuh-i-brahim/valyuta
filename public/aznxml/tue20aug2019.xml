@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for Azerbaijan Manat (AZN)</title>
+	<link>http://www.floatrates.com/currency/azn/</link>
+	<xmlLink>http://www.floatrates.com/daily/azn.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for Azerbaijan Manat (AZN) from the Float Rates. Published at Tue, 20 Aug 2019 12:00:02 GMT.</description>
+	<language>en</language>
+	<baseCurrency>AZN</baseCurrency>
+	<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+	<lastBuildDate>Tue, 20 Aug 2019 12:00:02 GMT</lastBuildDate>
+	<item>
+		<title>1 AZN = 0.58867820 USD</title>
+		<link>http://www.floatrates.com/azn/usd/</link>
+		<description>1 Azerbaijan Manat = 0.58867820 U.S. Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.58867820</exchangeRate>
+		<inverseRate>1.69872097</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 1.69872097 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.53114324 EUR</title>
+		<link>http://www.floatrates.com/azn/eur/</link>
+		<description>1 Azerbaijan Manat = 0.53114324 Euro</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.53114324</exchangeRate>
+		<inverseRate>1.88273129</inverseRate>
+		<inverseDescription>1 Euro = 1.88273129 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.48624186 GBP</title>
+		<link>http://www.floatrates.com/azn/gbp/</link>
+		<description>1 Azerbaijan Manat = 0.48624186 U.K. Pound Sterling</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.48624186</exchangeRate>
+		<inverseRate>2.05658971</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 2.05658971 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.86733137 AUD</title>
+		<link>http://www.floatrates.com/azn/aud/</link>
+		<description>1 Azerbaijan Manat = 0.86733137 Australian Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.86733137</exchangeRate>
+		<inverseRate>1.15296187</inverseRate>
+		<inverseDescription>1 Australian Dollar = 1.15296187 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.78351150 CAD</title>
+		<link>http://www.floatrates.com/azn/cad/</link>
+		<description>1 Azerbaijan Manat = 0.78351150 Canadian Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.78351150</exchangeRate>
+		<inverseRate>1.27630546</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 1.27630546 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 62.67702863 JPY</title>
+		<link>http://www.floatrates.com/azn/jpy/</link>
+		<description>1 Azerbaijan Manat = 62.67702863 Japanese Yen</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>62.67702863</exchangeRate>
+		<inverseRate>0.01595481</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.01595481 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.57703288 CHF</title>
+		<link>http://www.floatrates.com/azn/chf/</link>
+		<description>1 Azerbaijan Manat = 0.57703288 Swiss Franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.57703288</exchangeRate>
+		<inverseRate>1.73300350</inverseRate>
+		<inverseDescription>1 Swiss Franc = 1.73300350 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 280.62588441 AMD</title>
+		<link>http://www.floatrates.com/azn/amd/</link>
+		<description>1 Azerbaijan Manat = 280.62588441 Armenia Dram</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>280.62588441</exchangeRate>
+		<inverseRate>0.00356346</inverseRate>
+		<inverseDescription>1 Armenia Dram = 0.00356346 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 21.44660407 UYU</title>
+		<link>http://www.floatrates.com/azn/uyu/</link>
+		<description>1 Azerbaijan Manat = 21.44660407 Uruguayan Peso</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>21.44660407</exchangeRate>
+		<inverseRate>0.04662743</inverseRate>
+		<inverseDescription>1 Uruguayan Peso = 0.04662743 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 124.47620593 GYD</title>
+		<link>http://www.floatrates.com/azn/gyd/</link>
+		<description>1 Azerbaijan Manat = 124.47620593 Guyanese dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>GYD</targetCurrency>
+		<targetName>Guyanese dollar</targetName>
+		<exchangeRate>124.47620593</exchangeRate>
+		<inverseRate>0.00803366</inverseRate>
+		<inverseDescription>1 Guyanese dollar = 0.00803366 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 547.78348288 RWF</title>
+		<link>http://www.floatrates.com/azn/rwf/</link>
+		<description>1 Azerbaijan Manat = 547.78348288 Rwandan franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>RWF</targetCurrency>
+		<targetName>Rwandan franc</targetName>
+		<exchangeRate>547.78348288</exchangeRate>
+		<inverseRate>0.00182554</inverseRate>
+		<inverseDescription>1 Rwandan franc = 0.00182554 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 36.36148981 MZN</title>
+		<link>http://www.floatrates.com/azn/mzn/</link>
+		<description>1 Azerbaijan Manat = 36.36148981 Mozambican metical</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MZN</targetCurrency>
+		<targetName>Mozambican metical</targetName>
+		<exchangeRate>36.36148981</exchangeRate>
+		<inverseRate>0.02750162</inverseRate>
+		<inverseDescription>1 Mozambican metical = 0.02750162 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1,371.88826137 TZS</title>
+		<link>http://www.floatrates.com/azn/tzs/</link>
+		<description>1 Azerbaijan Manat = 1,371.88826137 Tanzanian shilling</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>TZS</targetCurrency>
+		<targetName>Tanzanian shilling</targetName>
+		<exchangeRate>1,371.88826137</exchangeRate>
+		<inverseRate>0.00072892</inverseRate>
+		<inverseDescription>1 Tanzanian shilling = 0.00072892 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 4.15746236 CNY</title>
+		<link>http://www.floatrates.com/azn/cny/</link>
+		<description>1 Azerbaijan Manat = 4.15746236 Chinese Yuan</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>4.15746236</exchangeRate>
+		<inverseRate>0.24053134</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.24053134 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.17907713 KWD</title>
+		<link>http://www.floatrates.com/azn/kwd/</link>
+		<description>1 Azerbaijan Manat = 0.17907713 Kuwaiti Dinar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.17907713</exchangeRate>
+		<inverseRate>5.58418608</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 5.58418608 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.03841962 BGN</title>
+		<link>http://www.floatrates.com/azn/bgn/</link>
+		<description>1 Azerbaijan Manat = 1.03841962 Bulgarian Lev</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>1.03841962</exchangeRate>
+		<inverseRate>0.96300184</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.96300184 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.99922376 PGK</title>
+		<link>http://www.floatrates.com/azn/pgk/</link>
+		<description>1 Azerbaijan Manat = 1.99922376 Papua New Guinean kina</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>1.99922376</exchangeRate>
+		<inverseRate>0.50019414</inverseRate>
+		<inverseDescription>1 Papua New Guinean kina = 0.50019414 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 10.41455581 MDL</title>
+		<link>http://www.floatrates.com/azn/mdl/</link>
+		<description>1 Azerbaijan Manat = 10.41455581 Moldova Lei</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>10.41455581</exchangeRate>
+		<inverseRate>0.09601946</inverseRate>
+		<inverseDescription>1 Moldova Lei = 0.09601946 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 337.14601613 CRC</title>
+		<link>http://www.floatrates.com/azn/crc/</link>
+		<description>1 Azerbaijan Manat = 337.14601613 Costa Rican Colón</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>337.14601613</exchangeRate>
+		<inverseRate>0.00296607</inverseRate>
+		<inverseDescription>1 Costa Rican Colón = 0.00296607 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 9.04430039 NAD</title>
+		<link>http://www.floatrates.com/azn/nad/</link>
+		<description>1 Azerbaijan Manat = 9.04430039 Namibian dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>NAD</targetCurrency>
+		<targetName>Namibian dollar</targetName>
+		<exchangeRate>9.04430039</exchangeRate>
+		<inverseRate>0.11056687</inverseRate>
+		<inverseDescription>1 Namibian dollar = 0.11056687 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 309.31507333 SYP</title>
+		<link>http://www.floatrates.com/azn/syp/</link>
+		<description>1 Azerbaijan Manat = 309.31507333 Syrian pound</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SYP</targetCurrency>
+		<targetName>Syrian pound</targetName>
+		<exchangeRate>309.31507333</exchangeRate>
+		<inverseRate>0.00323295</inverseRate>
+		<inverseDescription>1 Syrian pound = 0.00323295 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.36639360 TOP</title>
+		<link>http://www.floatrates.com/azn/top/</link>
+		<description>1 Azerbaijan Manat = 1.36639360 Tongan paʻanga</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>TOP</targetCurrency>
+		<targetName>Tongan paʻanga</targetName>
+		<exchangeRate>1.36639360</exchangeRate>
+		<inverseRate>0.73185355</inverseRate>
+		<inverseDescription>1 Tongan paʻanga = 0.73185355 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1,604.33129321 MNT</title>
+		<link>http://www.floatrates.com/azn/mnt/</link>
+		<description>1 Azerbaijan Manat = 1,604.33129321 Mongolian togrog</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MNT</targetCurrency>
+		<targetName>Mongolian togrog</targetName>
+		<exchangeRate>1,604.33129321</exchangeRate>
+		<inverseRate>0.00062331</inverseRate>
+		<inverseDescription>1 Mongolian togrog = 0.00062331 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.91687426 NZD</title>
+		<link>http://www.floatrates.com/azn/nzd/</link>
+		<description>1 Azerbaijan Manat = 0.91687426 New Zealand Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.91687426</exchangeRate>
+		<inverseRate>1.09066210</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 1.09066210 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 73.23432957 ISK</title>
+		<link>http://www.floatrates.com/azn/isk/</link>
+		<description>1 Azerbaijan Manat = 73.23432957 Icelandic Krona</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>73.23432957</exchangeRate>
+		<inverseRate>0.01365480</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.01365480 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 94.68855192 PKR</title>
+		<link>http://www.floatrates.com/azn/pkr/</link>
+		<description>1 Azerbaijan Manat = 94.68855192 Pakistani Rupee</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>94.68855192</exchangeRate>
+		<inverseRate>0.01056094</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.01056094 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 5,347.02156564 UZS</title>
+		<link>http://www.floatrates.com/azn/uzs/</link>
+		<description>1 Azerbaijan Manat = 5,347.02156564 Uzbekistan Sum</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>5,347.02156564</exchangeRate>
+		<inverseRate>0.00018702</inverseRate>
+		<inverseDescription>1 Uzbekistan Sum = 0.00018702 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2,201.00858632 MGA</title>
+		<link>http://www.floatrates.com/azn/mga/</link>
+		<description>1 Azerbaijan Manat = 2,201.00858632 Malagasy ariary</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MGA</targetCurrency>
+		<targetName>Malagasy ariary</targetName>
+		<exchangeRate>2,201.00858632</exchangeRate>
+		<inverseRate>0.00045434</inverseRate>
+		<inverseDescription>1 Malagasy ariary = 0.00045434 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.61730553 XCD</title>
+		<link>http://www.floatrates.com/azn/xcd/</link>
+		<description>1 Azerbaijan Manat = 1.61730553 East Caribbean Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>1.61730553</exchangeRate>
+		<inverseRate>0.61831236</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 0.61831236 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 5,189.85022368 LAK</title>
+		<link>http://www.floatrates.com/azn/lak/</link>
+		<description>1 Azerbaijan Manat = 5,189.85022368 Lao kip</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>LAK</targetCurrency>
+		<targetName>Lao kip</targetName>
+		<exchangeRate>5,189.85022368</exchangeRate>
+		<inverseRate>0.00019268</inverseRate>
+		<inverseDescription>1 Lao kip = 0.00019268 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.59651917 CUP</title>
+		<link>http://www.floatrates.com/azn/cup/</link>
+		<description>1 Azerbaijan Manat = 0.59651917 Cuban peso</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>CUP</targetCurrency>
+		<targetName>Cuban peso</targetName>
+		<exchangeRate>0.59651917</exchangeRate>
+		<inverseRate>1.67639206</inverseRate>
+		<inverseDescription>1 Cuban peso = 1.67639206 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2.20860720 SAR</title>
+		<link>http://www.floatrates.com/azn/sar/</link>
+		<description>1 Azerbaijan Manat = 2.20860720 Saudi Riyal</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>2.20860720</exchangeRate>
+		<inverseRate>0.45277404</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.45277404 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2.38332827 BRL</title>
+		<link>http://www.floatrates.com/azn/brl/</link>
+		<description>1 Azerbaijan Manat = 2.38332827 Brazilian Real</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>2.38332827</exchangeRate>
+		<inverseRate>0.41958131</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.41958131 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.48915836 GIP</title>
+		<link>http://www.floatrates.com/azn/gip/</link>
+		<description>1 Azerbaijan Manat = 0.48915836 Gibraltar pound</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>GIP</targetCurrency>
+		<targetName>Gibraltar pound</targetName>
+		<exchangeRate>0.48915836</exchangeRate>
+		<inverseRate>2.04432775</inverseRate>
+		<inverseDescription>1 Gibraltar pound = 2.04432775 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 707.40257125 IQD</title>
+		<link>http://www.floatrates.com/azn/iqd/</link>
+		<description>1 Azerbaijan Manat = 707.40257125 Iraqi dinar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>IQD</targetCurrency>
+		<targetName>Iraqi dinar</targetName>
+		<exchangeRate>707.40257125</exchangeRate>
+		<inverseRate>0.00141362</inverseRate>
+		<inverseDescription>1 Iraqi dinar = 0.00141362 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 5.22374026 SVC</title>
+		<link>http://www.floatrates.com/azn/svc/</link>
+		<description>1 Azerbaijan Manat = 5.22374026 Salvadoran colon</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SVC</targetCurrency>
+		<targetName>Salvadoran colon</targetName>
+		<exchangeRate>5.22374026</exchangeRate>
+		<inverseRate>0.19143371</inverseRate>
+		<inverseDescription>1 Salvadoran colon = 0.19143371 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.08006101 AWG</title>
+		<link>http://www.floatrates.com/azn/awg/</link>
+		<description>1 Azerbaijan Manat = 1.08006101 Aruban florin</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>AWG</targetCurrency>
+		<targetName>Aruban florin</targetName>
+		<exchangeRate>1.08006101</exchangeRate>
+		<inverseRate>0.92587362</inverseRate>
+		<inverseDescription>1 Aruban florin = 0.92587362 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 214.80213426 AOA</title>
+		<link>http://www.floatrates.com/azn/aoa/</link>
+		<description>1 Azerbaijan Manat = 214.80213426 Angolan kwanza</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>AOA</targetCurrency>
+		<targetName>Angolan kwanza</targetName>
+		<exchangeRate>214.80213426</exchangeRate>
+		<inverseRate>0.00465545</inverseRate>
+		<inverseDescription>1 Angolan kwanza = 0.00465545 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2,447.11292192 KHR</title>
+		<link>http://www.floatrates.com/azn/khr/</link>
+		<description>1 Azerbaijan Manat = 2,447.11292192 Cambodian riel</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>KHR</targetCurrency>
+		<targetName>Cambodian riel</targetName>
+		<exchangeRate>2,447.11292192</exchangeRate>
+		<inverseRate>0.00040864</inverseRate>
+		<inverseDescription>1 Cambodian riel = 0.00040864 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 9.05142751 ZAR</title>
+		<link>http://www.floatrates.com/azn/zar/</link>
+		<description>1 Azerbaijan Manat = 9.05142751 South African Rand</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>9.05142751</exchangeRate>
+		<inverseRate>0.11047981</inverseRate>
+		<inverseDescription>1 South African Rand = 0.11047981 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2.08600830 ILS</title>
+		<link>http://www.floatrates.com/azn/ils/</link>
+		<description>1 Azerbaijan Manat = 2.08600830 Israeli New Sheqel</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>2.08600830</exchangeRate>
+		<inverseRate>0.47938448</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.47938448 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.80255406 LYD</title>
+		<link>http://www.floatrates.com/azn/lyd/</link>
+		<description>1 Azerbaijan Manat = 0.80255406 Libyan Dinar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.80255406</exchangeRate>
+		<inverseRate>1.24602199</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 1.24602199 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 9.78559747 EGP</title>
+		<link>http://www.floatrates.com/azn/egp/</link>
+		<description>1 Azerbaijan Manat = 9.78559747 Egyptian Pound</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>9.78559747</exchangeRate>
+		<inverseRate>0.10219100</inverseRate>
+		<inverseDescription>1 Egyptian Pound = 0.10219100 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 62.52055605 RSD</title>
+		<link>http://www.floatrates.com/azn/rsd/</link>
+		<description>1 Azerbaijan Manat = 62.52055605 Serbian Dinar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>62.52055605</exchangeRate>
+		<inverseRate>0.01599474</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.01599474 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 13.10657090 STN</title>
+		<link>http://www.floatrates.com/azn/stn/</link>
+		<description>1 Azerbaijan Manat = 13.10657090 São Tomé and Príncipe Dobra</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>STN</targetCurrency>
+		<targetName>São Tomé and Príncipe Dobra</targetName>
+		<exchangeRate>13.10657090</exchangeRate>
+		<inverseRate>0.07629761</inverseRate>
+		<inverseDescription>1 São Tomé and Príncipe Dobra = 0.07629761 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 106.23542840 DJF</title>
+		<link>http://www.floatrates.com/azn/djf/</link>
+		<description>1 Azerbaijan Manat = 106.23542840 Djiboutian franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>DJF</targetCurrency>
+		<targetName>Djiboutian franc</targetName>
+		<exchangeRate>106.23542840</exchangeRate>
+		<inverseRate>0.00941306</inverseRate>
+		<inverseDescription>1 Djiboutian franc = 0.00941306 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 14.61791462 HNL</title>
+		<link>http://www.floatrates.com/azn/hnl/</link>
+		<description>1 Azerbaijan Manat = 14.61791462 Honduran Lempira</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>14.61791462</exchangeRate>
+		<inverseRate>0.06840921</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.06840921 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 68.05113083 NPR</title>
+		<link>http://www.floatrates.com/azn/npr/</link>
+		<description>1 Azerbaijan Manat = 68.05113083 Nepalese Rupee</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>68.05113083</exchangeRate>
+		<inverseRate>0.01469483</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.01469483 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 13.69028915 CZK</title>
+		<link>http://www.floatrates.com/azn/czk/</link>
+		<description>1 Azerbaijan Manat = 13.69028915 Czech Koruna</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>13.69028915</exchangeRate>
+		<inverseRate>0.07304448</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.07304448 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 18.15029291 THB</title>
+		<link>http://www.floatrates.com/azn/thb/</link>
+		<description>1 Azerbaijan Manat = 18.15029291 Thai Baht</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>18.15029291</exchangeRate>
+		<inverseRate>0.05509553</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.05509553 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 348.87545069 XAF</title>
+		<link>http://www.floatrates.com/azn/xaf/</link>
+		<description>1 Azerbaijan Manat = 348.87545069 Central African CFA Franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>348.87545069</exchangeRate>
+		<inverseRate>0.00286635</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.00286635 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 3,620.90147764 PYG</title>
+		<link>http://www.floatrates.com/azn/pyg/</link>
+		<description>1 Azerbaijan Manat = 3,620.90147764 Paraguayan Guaraní</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>3,620.90147764</exchangeRate>
+		<inverseRate>0.00027617</inverseRate>
+		<inverseDescription>1 Paraguayan Guaraní = 0.00027617 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.29550625 FJD</title>
+		<link>http://www.floatrates.com/azn/fjd/</link>
+		<description>1 Azerbaijan Manat = 1.29550625 Fiji Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>1.29550625</exchangeRate>
+		<inverseRate>0.77189901</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 0.77189901 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 987.17576595 CDF</title>
+		<link>http://www.floatrates.com/azn/cdf/</link>
+		<description>1 Azerbaijan Manat = 987.17576595 Congolese franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>CDF</targetCurrency>
+		<targetName>Congolese franc</targetName>
+		<exchangeRate>987.17576595</exchangeRate>
+		<inverseRate>0.00101299</inverseRate>
+		<inverseDescription>1 Congolese franc = 0.00101299 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 9.04430039 LSL</title>
+		<link>http://www.floatrates.com/azn/lsl/</link>
+		<description>1 Azerbaijan Manat = 9.04430039 Lesotho loti</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>LSL</targetCurrency>
+		<targetName>Lesotho loti</targetName>
+		<exchangeRate>9.04430039</exchangeRate>
+		<inverseRate>0.11056687</inverseRate>
+		<inverseDescription>1 Lesotho loti = 0.11056687 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 345.21771577 SOS</title>
+		<link>http://www.floatrates.com/azn/sos/</link>
+		<description>1 Azerbaijan Manat = 345.21771577 Somali shilling</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SOS</targetCurrency>
+		<targetName>Somali shilling</targetName>
+		<exchangeRate>345.21771577</exchangeRate>
+		<inverseRate>0.00289672</inverseRate>
+		<inverseDescription>1 Somali shilling = 0.00289672 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 711.47740824 KRW</title>
+		<link>http://www.floatrates.com/azn/krw/</link>
+		<description>1 Azerbaijan Manat = 711.47740824 South Korean Won</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>711.47740824</exchangeRate>
+		<inverseRate>0.00140553</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.00140553 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.22233372 BHD</title>
+		<link>http://www.floatrates.com/azn/bhd/</link>
+		<description>1 Azerbaijan Manat = 0.22233372 Bahrain Dinar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.22233372</exchangeRate>
+		<inverseRate>4.49774327</inverseRate>
+		<inverseDescription>1 Bahrain Dinar = 4.49774327 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 13,668.59100290 VND</title>
+		<link>http://www.floatrates.com/azn/vnd/</link>
+		<description>1 Azerbaijan Manat = 13,668.59100290 Vietnamese Dong</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>13,668.59100290</exchangeRate>
+		<inverseRate>0.00007316</inverseRate>
+		<inverseDescription>1 Vietnamese Dong = 0.00007316 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 41.19715706 KGS</title>
+		<link>http://www.floatrates.com/azn/kgs/</link>
+		<description>1 Azerbaijan Manat = 41.19715706 Kyrgyzstan Som</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>41.19715706</exchangeRate>
+		<inverseRate>0.02427352</inverseRate>
+		<inverseDescription>1 Kyrgyzstan Som = 0.02427352 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 4.08530717 BOB</title>
+		<link>http://www.floatrates.com/azn/bob/</link>
+		<description>1 Azerbaijan Manat = 4.08530717 Bolivian Boliviano</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>4.08530717</exchangeRate>
+		<inverseRate>0.24477964</inverseRate>
+		<inverseDescription>1 Bolivian Boliviano = 0.24477964 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 120.82620052 LRD</title>
+		<link>http://www.floatrates.com/azn/lrd/</link>
+		<description>1 Azerbaijan Manat = 120.82620052 Liberian dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>LRD</targetCurrency>
+		<targetName>Liberian dollar</targetName>
+		<exchangeRate>120.82620052</exchangeRate>
+		<inverseRate>0.00827635</inverseRate>
+		<inverseDescription>1 Liberian dollar = 0.00827635 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 26.91256438 SDG</title>
+		<link>http://www.floatrates.com/azn/sdg/</link>
+		<description>1 Azerbaijan Manat = 26.91256438 Sudanese pound</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SDG</targetCurrency>
+		<targetName>Sudanese pound</targetName>
+		<exchangeRate>26.91256438</exchangeRate>
+		<inverseRate>0.03715737</inverseRate>
+		<inverseDescription>1 Sudanese pound = 0.03715737 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 22.15724021 MRU</title>
+		<link>http://www.floatrates.com/azn/mru/</link>
+		<description>1 Azerbaijan Manat = 22.15724021 Mauritanian ouguiya</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MRU</targetCurrency>
+		<targetName>Mauritanian ouguiya</targetName>
+		<exchangeRate>22.15724021</exchangeRate>
+		<inverseRate>0.04513197</inverseRate>
+		<inverseDescription>1 Mauritanian ouguiya = 0.04513197 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.58796841 WST</title>
+		<link>http://www.floatrates.com/azn/wst/</link>
+		<description>1 Azerbaijan Manat = 1.58796841 Samoan tala</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>WST</targetCurrency>
+		<targetName>Samoan tala</targetName>
+		<exchangeRate>1.58796841</exchangeRate>
+		<inverseRate>0.62973545</inverseRate>
+		<inverseDescription>1 Samoan tala = 0.62973545 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 21.23808816 MUR</title>
+		<link>http://www.floatrates.com/azn/mur/</link>
+		<description>1 Azerbaijan Manat = 21.23808816 Mauritian Rupee</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>21.23808816</exchangeRate>
+		<inverseRate>0.04708522</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.04708522 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2.51218404 RON</title>
+		<link>http://www.floatrates.com/azn/ron/</link>
+		<description>1 Azerbaijan Manat = 2.51218404 Romanian New Leu</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>2.51218404</exchangeRate>
+		<inverseRate>0.39806001</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.39806001 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.99437355 PEN</title>
+		<link>http://www.floatrates.com/azn/pen/</link>
+		<description>1 Azerbaijan Manat = 1.99437355 Peruvian Nuevo Sol</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>1.99437355</exchangeRate>
+		<inverseRate>0.50141058</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 0.50141058 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 5.69074778 TJS</title>
+		<link>http://www.floatrates.com/azn/tjs/</link>
+		<description>1 Azerbaijan Manat = 5.69074778 Tajikistan Ruble</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>5.69074778</exchangeRate>
+		<inverseRate>0.17572383</inverseRate>
+		<inverseDescription>1 Tajikistan Ruble = 0.17572383 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 46.85077652 AFN</title>
+		<link>http://www.floatrates.com/azn/afn/</link>
+		<description>1 Azerbaijan Manat = 46.85077652 Afghan afghani</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>AFN</targetCurrency>
+		<targetName>Afghan afghani</targetName>
+		<exchangeRate>46.85077652</exchangeRate>
+		<inverseRate>0.02134436</inverseRate>
+		<inverseDescription>1 Afghan afghani = 0.02134436 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 4.04368668 TTD</title>
+		<link>http://www.floatrates.com/azn/ttd/</link>
+		<description>1 Azerbaijan Manat = 4.04368668 Trinidad Tobago Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>4.04368668</exchangeRate>
+		<inverseRate>0.24729908</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.24729908 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.06518346 ANG</title>
+		<link>http://www.floatrates.com/azn/ang/</link>
+		<description>1 Azerbaijan Manat = 1.06518346 Neth. Antillean Guilder</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>ANG</targetCurrency>
+		<targetName>Neth. Antillean Guilder</targetName>
+		<exchangeRate>1.06518346</exchangeRate>
+		<inverseRate>0.93880542</inverseRate>
+		<inverseDescription>1 Neth. Antillean Guilder = 0.93880542 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 30.44439698 DOP</title>
+		<link>http://www.floatrates.com/azn/dop/</link>
+		<description>1 Azerbaijan Manat = 30.44439698 Dominican Peso</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>30.44439698</exchangeRate>
+		<inverseRate>0.03284677</inverseRate>
+		<inverseDescription>1 Dominican Peso = 0.03284677 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.04394881 BAM</title>
+		<link>http://www.floatrates.com/azn/bam/</link>
+		<description>1 Azerbaijan Manat = 1.04394881 Bosnia and Herzegovina convertible mark</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BAM</targetCurrency>
+		<targetName>Bosnia and Herzegovina convertible mark</targetName>
+		<exchangeRate>1.04394881</exchangeRate>
+		<inverseRate>0.95790137</inverseRate>
+		<inverseDescription>1 Bosnia and Herzegovina convertible mark = 0.95790137 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 70.60528030 DZD</title>
+		<link>http://www.floatrates.com/azn/dzd/</link>
+		<description>1 Azerbaijan Manat = 70.60528030 Algerian Dinar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>70.60528030</exchangeRate>
+		<inverseRate>0.01416325</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.01416325 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2.31672467 PLN</title>
+		<link>http://www.floatrates.com/azn/pln/</link>
+		<description>1 Azerbaijan Manat = 2.31672467 Polish Zloty</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>2.31672467</exchangeRate>
+		<inverseRate>0.43164387</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.43164387 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 3.33718084 TRY</title>
+		<link>http://www.floatrates.com/azn/try/</link>
+		<description>1 Azerbaijan Manat = 3.33718084 Turkish Lira</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>3.33718084</exchangeRate>
+		<inverseRate>0.29965412</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.29965412 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 49.97958714 BDT</title>
+		<link>http://www.floatrates.com/azn/bdt/</link>
+		<description>1 Azerbaijan Manat = 49.97958714 Bangladeshi taka</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BDT</targetCurrency>
+		<targetName>Bangladeshi taka</targetName>
+		<exchangeRate>49.97958714</exchangeRate>
+		<inverseRate>0.02000817</inverseRate>
+		<inverseDescription>1 Bangladeshi taka = 0.02000817 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 24,835.05827980 IRR</title>
+		<link>http://www.floatrates.com/azn/irr/</link>
+		<description>1 Azerbaijan Manat = 24,835.05827980 Iranian rial</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>IRR</targetCurrency>
+		<targetName>Iranian rial</targetName>
+		<exchangeRate>24,835.05827980</exchangeRate>
+		<inverseRate>0.00004027</inverseRate>
+		<inverseDescription>1 Iranian rial = 0.00004027 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 17.44257932 ETB</title>
+		<link>http://www.floatrates.com/azn/etb/</link>
+		<description>1 Azerbaijan Manat = 17.44257932 Ethiopian birr</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>ETB</targetCurrency>
+		<targetName>Ethiopian birr</targetName>
+		<exchangeRate>17.44257932</exchangeRate>
+		<inverseRate>0.05733097</inverseRate>
+		<inverseDescription>1 Ethiopian birr = 0.05733097 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 59.18017985 CVE</title>
+		<link>http://www.floatrates.com/azn/cve/</link>
+		<description>1 Azerbaijan Manat = 59.18017985 Cape Verde escudo</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>CVE</targetCurrency>
+		<targetName>Cape Verde escudo</targetName>
+		<exchangeRate>59.18017985</exchangeRate>
+		<inverseRate>0.01689755</inverseRate>
+		<inverseDescription>1 Cape Verde escudo = 0.01689755 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 7.77433998 ZMW</title>
+		<link>http://www.floatrates.com/azn/zmw/</link>
+		<description>1 Azerbaijan Manat = 7.77433998 Zambian kwacha</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>ZMW</targetCurrency>
+		<targetName>Zambian kwacha</targetName>
+		<exchangeRate>7.77433998</exchangeRate>
+		<inverseRate>0.12862828</inverseRate>
+		<inverseDescription>1 Zambian kwacha = 0.12862828 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 148.94786838 YER</title>
+		<link>http://www.floatrates.com/azn/yer/</link>
+		<description>1 Azerbaijan Manat = 148.94786838 Yemeni rial</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>YER</targetCurrency>
+		<targetName>Yemeni rial</targetName>
+		<exchangeRate>148.94786838</exchangeRate>
+		<inverseRate>0.00671376</inverseRate>
+		<inverseDescription>1 Yemeni rial = 0.00671376 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.81627027 BND</title>
+		<link>http://www.floatrates.com/azn/bnd/</link>
+		<description>1 Azerbaijan Manat = 0.81627027 Brunei Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.81627027</exchangeRate>
+		<inverseRate>1.22508444</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 1.22508444 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.81553756 SGD</title>
+		<link>http://www.floatrates.com/azn/sgd/</link>
+		<description>1 Azerbaijan Manat = 0.81553756 Singapore Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.81553756</exchangeRate>
+		<inverseRate>1.22618509</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 1.22618509 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 8,396.62491398 IDR</title>
+		<link>http://www.floatrates.com/azn/idr/</link>
+		<description>1 Azerbaijan Manat = 8,396.62491398 Indonesian Rupiah</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>8,396.62491398</exchangeRate>
+		<inverseRate>0.00011910</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.00011910 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.69490943 TND</title>
+		<link>http://www.floatrates.com/azn/tnd/</link>
+		<description>1 Azerbaijan Manat = 1.69490943 Tunisian Dinar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>1.69490943</exchangeRate>
+		<inverseRate>0.59000203</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 0.59000203 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.22819284 OMR</title>
+		<link>http://www.floatrates.com/azn/omr/</link>
+		<description>1 Azerbaijan Manat = 0.22819284 Omani Rial</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.22819284</exchangeRate>
+		<inverseRate>4.38225851</inverseRate>
+		<inverseDescription>1 Omani Rial = 4.38225851 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 3.20860495 GHS</title>
+		<link>http://www.floatrates.com/azn/ghs/</link>
+		<description>1 Azerbaijan Manat = 3.20860495 Ghanaian Cedi</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>3.20860495</exchangeRate>
+		<inverseRate>0.31166193</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 0.31166193 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 32.82577329 MKD</title>
+		<link>http://www.floatrates.com/azn/mkd/</link>
+		<description>1 Azerbaijan Manat = 32.82577329 Macedonian denar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MKD</targetCurrency>
+		<targetName>Macedonian denar</targetName>
+		<exchangeRate>32.82577329</exchangeRate>
+		<inverseRate>0.03046387</inverseRate>
+		<inverseDescription>1 Macedonian denar = 0.03046387 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 63.69575382 XPF</title>
+		<link>http://www.floatrates.com/azn/xpf/</link>
+		<description>1 Azerbaijan Manat = 63.69575382 CFP Franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>63.69575382</exchangeRate>
+		<inverseRate>0.01569963</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.01569963 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 64.58416063 ALL</title>
+		<link>http://www.floatrates.com/azn/all/</link>
+		<description>1 Azerbaijan Manat = 64.58416063 Albanian lek</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>ALL</targetCurrency>
+		<targetName>Albanian lek</targetName>
+		<exchangeRate>64.58416063</exchangeRate>
+		<inverseRate>0.01548367</inverseRate>
+		<inverseDescription>1 Albanian lek = 0.01548367 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 9.22410755 MVR</title>
+		<link>http://www.floatrates.com/azn/mvr/</link>
+		<description>1 Azerbaijan Manat = 9.22410755 Maldivian rufiyaa</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MVR</targetCurrency>
+		<targetName>Maldivian rufiyaa</targetName>
+		<exchangeRate>9.22410755</exchangeRate>
+		<inverseRate>0.10841157</inverseRate>
+		<inverseDescription>1 Maldivian rufiyaa = 0.10841157 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2,026.22433412 COP</title>
+		<link>http://www.floatrates.com/azn/cop/</link>
+		<description>1 Azerbaijan Manat = 2,026.22433412 Colombian Peso</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>2,026.22433412</exchangeRate>
+		<inverseRate>0.00049353</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.00049353 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 30.83972673 PHP</title>
+		<link>http://www.floatrates.com/azn/php/</link>
+		<description>1 Azerbaijan Manat = 30.83972673 Philippine Peso</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>30.83972673</exchangeRate>
+		<inverseRate>0.03242571</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.03242571 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 5.66431107 MAD</title>
+		<link>http://www.floatrates.com/azn/mad/</link>
+		<description>1 Azerbaijan Manat = 5.66431107 Moroccan Dirham</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>5.66431107</exchangeRate>
+		<inverseRate>0.17654398</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.17654398 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 32.70055281 ARS</title>
+		<link>http://www.floatrates.com/azn/ars/</link>
+		<description>1 Azerbaijan Manat = 32.70055281 Argentine Peso</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>32.70055281</exchangeRate>
+		<inverseRate>0.03058052</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.03058052 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.20287413 BZD</title>
+		<link>http://www.floatrates.com/azn/bzd/</link>
+		<description>1 Azerbaijan Manat = 1.20287413 Belize dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BZD</targetCurrency>
+		<targetName>Belize dollar</targetName>
+		<exchangeRate>1.20287413</exchangeRate>
+		<inverseRate>0.83134218</inverseRate>
+		<inverseDescription>1 Belize dollar = 0.83134218 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 262.57646293 KMF</title>
+		<link>http://www.floatrates.com/azn/kmf/</link>
+		<description>1 Azerbaijan Manat = 262.57646293 	Comoro franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>KMF</targetCurrency>
+		<targetName>	Comoro franc</targetName>
+		<exchangeRate>262.57646293</exchangeRate>
+		<inverseRate>0.00380841</inverseRate>
+		<inverseDescription>1 	Comoro franc = 0.00380841 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 9.04430039 SZL</title>
+		<link>http://www.floatrates.com/azn/szl/</link>
+		<description>1 Azerbaijan Manat = 9.04430039 Swazi lilangeni</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SZL</targetCurrency>
+		<targetName>Swazi lilangeni</targetName>
+		<exchangeRate>9.04430039</exchangeRate>
+		<inverseRate>0.11056687</inverseRate>
+		<inverseDescription>1 Swazi lilangeni = 0.11056687 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 61.61491195 KES</title>
+		<link>http://www.floatrates.com/azn/kes/</link>
+		<description>1 Azerbaijan Manat = 61.61491195 Kenyan shilling</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>KES</targetCurrency>
+		<targetName>Kenyan shilling</targetName>
+		<exchangeRate>61.61491195</exchangeRate>
+		<inverseRate>0.01622984</inverseRate>
+		<inverseDescription>1 Kenyan shilling = 0.01622984 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 42.13051110 INR</title>
+		<link>http://www.floatrates.com/azn/inr/</link>
+		<description>1 Azerbaijan Manat = 42.13051110 Indian Rupee</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>42.13051110</exchangeRate>
+		<inverseRate>0.02373577</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.02373577 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.17985794 BBD</title>
+		<link>http://www.floatrates.com/azn/bbd/</link>
+		<description>1 Azerbaijan Manat = 1.17985794 Barbadian Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>1.17985794</exchangeRate>
+		<inverseRate>0.84755967</inverseRate>
+		<inverseDescription>1 Barbadian Dollar = 0.84755967 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 18.46967230 TWD</title>
+		<link>http://www.floatrates.com/azn/twd/</link>
+		<description>1 Azerbaijan Manat = 18.46967230 New Taiwan Dollar </description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>18.46967230</exchangeRate>
+		<inverseRate>0.05414281</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.05414281 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 228.00573129 KZT</title>
+		<link>http://www.floatrates.com/azn/kzt/</link>
+		<description>1 Azerbaijan Manat = 228.00573129 Kazakhstani Tenge</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>228.00573129</exchangeRate>
+		<inverseRate>0.00438585</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.00438585 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 8,219.44536715 VES</title>
+		<link>http://www.floatrates.com/azn/ves/</link>
+		<description>1 Azerbaijan Manat = 8,219.44536715 Venezuelan Bolivar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>VES</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>8,219.44536715</exchangeRate>
+		<inverseRate>0.00012166</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar = 0.00012166 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 80.27207785 JMD</title>
+		<link>http://www.floatrates.com/azn/jmd/</link>
+		<description>1 Azerbaijan Manat = 80.27207785 Jamaican Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>80.27207785</exchangeRate>
+		<inverseRate>0.01245763</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.01245763 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 94.28804463 SSP</title>
+		<link>http://www.floatrates.com/azn/ssp/</link>
+		<description>1 Azerbaijan Manat = 94.28804463 South Sudanese pound</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SSP</targetCurrency>
+		<targetName>South Sudanese pound</targetName>
+		<exchangeRate>94.28804463</exchangeRate>
+		<inverseRate>0.01060580</inverseRate>
+		<inverseDescription>1 South Sudanese pound = 0.01060580 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 8.99520376 ERN</title>
+		<link>http://www.floatrates.com/azn/ern/</link>
+		<description>1 Azerbaijan Manat = 8.99520376 Eritrean nakfa</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>ERN</targetCurrency>
+		<targetName>Eritrean nakfa</targetName>
+		<exchangeRate>8.99520376</exchangeRate>
+		<inverseRate>0.11117036</inverseRate>
+		<inverseDescription>1 Eritrean nakfa = 0.11117036 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2,205.19301329 UGX</title>
+		<link>http://www.floatrates.com/azn/ugx/</link>
+		<description>1 Azerbaijan Manat = 2,205.19301329 Ugandan shilling</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>UGX</targetCurrency>
+		<targetName>Ugandan shilling</targetName>
+		<exchangeRate>2,205.19301329</exchangeRate>
+		<inverseRate>0.00045348</inverseRate>
+		<inverseDescription>1 Ugandan shilling = 0.00045348 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2.46062770 MYR</title>
+		<link>http://www.floatrates.com/azn/myr/</link>
+		<description>1 Azerbaijan Manat = 2.46062770 Malaysian Ringgit</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>2.46062770</exchangeRate>
+		<inverseRate>0.40640037</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.40640037 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 173.47204513 HUF</title>
+		<link>http://www.floatrates.com/azn/huf/</link>
+		<description>1 Azerbaijan Manat = 173.47204513 Hungarian Forint</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>173.47204513</exchangeRate>
+		<inverseRate>0.00576462</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.00576462 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 181.71355248 NGN</title>
+		<link>http://www.floatrates.com/azn/ngn/</link>
+		<description>1 Azerbaijan Manat = 181.71355248 Nigerian Naira</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>181.71355248</exchangeRate>
+		<inverseRate>0.00550317</inverseRate>
+		<inverseDescription>1 Nigerian Naira = 0.00550317 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2.06098432 TMT</title>
+		<link>http://www.floatrates.com/azn/tmt/</link>
+		<description>1 Azerbaijan Manat = 2.06098432 New Turkmenistan Manat</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>2.06098432</exchangeRate>
+		<inverseRate>0.48520505</inverseRate>
+		<inverseDescription>1 New Turkmenistan Manat = 0.48520505 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 19.81526547 NIO</title>
+		<link>http://www.floatrates.com/azn/nio/</link>
+		<description>1 Azerbaijan Manat = 19.81526547 Nicaraguan Córdoba</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>19.81526547</exchangeRate>
+		<inverseRate>0.05046614</inverseRate>
+		<inverseDescription>1 Nicaraguan Córdoba = 0.05046614 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 4.46041732 SRD</title>
+		<link>http://www.floatrates.com/azn/srd/</link>
+		<description>1 Azerbaijan Manat = 4.46041732 Surinamese dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SRD</targetCurrency>
+		<targetName>Surinamese dollar</targetName>
+		<exchangeRate>4.46041732</exchangeRate>
+		<inverseRate>0.22419427</inverseRate>
+		<inverseDescription>1 Surinamese dollar = 0.22419427 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 56.72036797 HTG</title>
+		<link>http://www.floatrates.com/azn/htg/</link>
+		<description>1 Azerbaijan Manat = 56.72036797 Haitian gourde</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>HTG</targetCurrency>
+		<targetName>Haitian gourde</targetName>
+		<exchangeRate>56.72036797</exchangeRate>
+		<inverseRate>0.01763035</inverseRate>
+		<inverseDescription>1 Haitian gourde = 0.01763035 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 4.82300010 MOP</title>
+		<link>http://www.floatrates.com/azn/mop/</link>
+		<description>1 Azerbaijan Manat = 4.82300010 Macanese pataca</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MOP</targetCurrency>
+		<targetName>Macanese pataca</targetName>
+		<exchangeRate>4.82300010</exchangeRate>
+		<inverseRate>0.20733983</inverseRate>
+		<inverseDescription>1 Macanese pataca = 0.20733983 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 70.30314110 VUV</title>
+		<link>http://www.floatrates.com/azn/vuv/</link>
+		<description>1 Azerbaijan Manat = 70.30314110 Vanuatu vatu</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>VUV</targetCurrency>
+		<targetName>Vanuatu vatu</targetName>
+		<exchangeRate>70.30314110</exchangeRate>
+		<inverseRate>0.01422412</inverseRate>
+		<inverseDescription>1 Vanuatu vatu = 0.01422412 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 5.28728895 NOK</title>
+		<link>http://www.floatrates.com/azn/nok/</link>
+		<description>1 Azerbaijan Manat = 5.28728895 Norwegian Krone</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>5.28728895</exchangeRate>
+		<inverseRate>0.18913284</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.18913284 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 3.91897125 HRK</title>
+		<link>http://www.floatrates.com/azn/hrk/</link>
+		<description>1 Azerbaijan Manat = 3.91897125 Croatian Kuna</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>3.91897125</exchangeRate>
+		<inverseRate>0.25516901</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.25516901 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.21270356 BYN</title>
+		<link>http://www.floatrates.com/azn/byn/</link>
+		<description>1 Azerbaijan Manat = 1.21270356 Belarussian Ruble</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>1.21270356</exchangeRate>
+		<inverseRate>0.82460383</inverseRate>
+		<inverseDescription>1 Belarussian Ruble = 0.82460383 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 14.79498382 UAH</title>
+		<link>http://www.floatrates.com/azn/uah/</link>
+		<description>1 Azerbaijan Manat = 14.79498382 Ukrainian Hryvnia</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>14.79498382</exchangeRate>
+		<inverseRate>0.06759048</inverseRate>
+		<inverseDescription>1 Ukrainian Hryvnia = 0.06759048 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.59651917 PAB</title>
+		<link>http://www.floatrates.com/azn/pab/</link>
+		<description>1 Azerbaijan Manat = 0.59651917 Panamanian Balboa</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>0.59651917</exchangeRate>
+		<inverseRate>1.67639206</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 1.67639206 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 4.78815903 SBD</title>
+		<link>http://www.floatrates.com/azn/sbd/</link>
+		<description>1 Azerbaijan Manat = 4.78815903 Solomon Islands dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SBD</targetCurrency>
+		<targetName>Solomon Islands dollar</targetName>
+		<exchangeRate>4.78815903</exchangeRate>
+		<inverseRate>0.20884854</inverseRate>
+		<inverseDescription>1 Solomon Islands dollar = 0.20884854 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 436.22847875 MWK</title>
+		<link>http://www.floatrates.com/azn/mwk/</link>
+		<description>1 Azerbaijan Manat = 436.22847875 Malawian kwacha</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MWK</targetCurrency>
+		<targetName>Malawian kwacha</targetName>
+		<exchangeRate>436.22847875</exchangeRate>
+		<inverseRate>0.00229238</inverseRate>
+		<inverseDescription>1 Malawian kwacha = 0.00229238 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 4.58018371 GTQ</title>
+		<link>http://www.floatrates.com/azn/gtq/</link>
+		<description>1 Azerbaijan Manat = 4.58018371 Guatemalan Quetzal</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>4.58018371</exchangeRate>
+		<inverseRate>0.21833185</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.21833185 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 6.51737454 BWP</title>
+		<link>http://www.floatrates.com/azn/bwp/</link>
+		<description>1 Azerbaijan Manat = 6.51737454 Botswana Pula</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>6.51737454</exchangeRate>
+		<inverseRate>0.15343602</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.15343602 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 39.31872200 RUB</title>
+		<link>http://www.floatrates.com/azn/rub/</link>
+		<description>1 Azerbaijan Manat = 39.31872200 Russian Rouble</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>39.31872200</exchangeRate>
+		<inverseRate>0.02543318</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.02543318 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 4.61810394 HKD</title>
+		<link>http://www.floatrates.com/azn/hkd/</link>
+		<description>1 Azerbaijan Manat = 4.61810394 Hong Kong Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>4.61810394</exchangeRate>
+		<inverseRate>0.21653908</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.21653908 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2.16450958 QAR</title>
+		<link>http://www.floatrates.com/azn/qar/</link>
+		<description>1 Azerbaijan Manat = 2.16450958 Qatari Rial</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>2.16450958</exchangeRate>
+		<inverseRate>0.46199842</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.46199842 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 894.91990709 LBP</title>
+		<link>http://www.floatrates.com/azn/lbp/</link>
+		<description>1 Azerbaijan Manat = 894.91990709 Lebanese Pound</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>894.91990709</exchangeRate>
+		<inverseRate>0.00111742</inverseRate>
+		<inverseDescription>1 Lebanese Pound = 0.00111742 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 30.24593286 GMD</title>
+		<link>http://www.floatrates.com/azn/gmd/</link>
+		<description>1 Azerbaijan Manat = 30.24593286 Gambian dalasi</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>GMD</targetCurrency>
+		<targetName>Gambian dalasi</targetName>
+		<exchangeRate>30.24593286</exchangeRate>
+		<inverseRate>0.03306230</inverseRate>
+		<inverseDescription>1 Gambian dalasi = 0.03306230 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1,099.98247984 BIF</title>
+		<link>http://www.floatrates.com/azn/bif/</link>
+		<description>1 Azerbaijan Manat = 1,099.98247984 Burundian franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BIF</targetCurrency>
+		<targetName>Burundian franc</targetName>
+		<exchangeRate>1,099.98247984</exchangeRate>
+		<inverseRate>0.00090911</inverseRate>
+		<inverseDescription>1 Burundian franc = 0.00090911 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 901.96852643 MMK</title>
+		<link>http://www.floatrates.com/azn/mmk/</link>
+		<description>1 Azerbaijan Manat = 901.96852643 Myanma Kyat</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>901.96852643</exchangeRate>
+		<inverseRate>0.00110869</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.00110869 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 105.56348061 LKR</title>
+		<link>http://www.floatrates.com/azn/lkr/</link>
+		<description>1 Azerbaijan Manat = 105.56348061 Sri Lanka Rupee</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>105.56348061</exchangeRate>
+		<inverseRate>0.00947297</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.00947297 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 417.92340357 CLP</title>
+		<link>http://www.floatrates.com/azn/clp/</link>
+		<description>1 Azerbaijan Manat = 417.92340357 Chilean Peso</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>417.92340357</exchangeRate>
+		<inverseRate>0.00239278</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.00239278 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 5.69841481 SEK</title>
+		<link>http://www.floatrates.com/azn/sek/</link>
+		<description>1 Azerbaijan Manat = 5.69841481 Swedish Krona</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>5.69841481</exchangeRate>
+		<inverseRate>0.17548740</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.17548740 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 11.64633884 MXN</title>
+		<link>http://www.floatrates.com/azn/mxn/</link>
+		<description>1 Azerbaijan Manat = 11.64633884 Mexican Peso</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>11.64633884</exchangeRate>
+		<inverseRate>0.08586389</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.08586389 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 21.48074373 MRO</title>
+		<link>http://www.floatrates.com/azn/mro/</link>
+		<description>1 Azerbaijan Manat = 21.48074373 Mauritanian Ouguiya</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>MRO</targetCurrency>
+		<targetName>Mauritanian Ouguiya</targetName>
+		<exchangeRate>21.48074373</exchangeRate>
+		<inverseRate>0.04655332</inverseRate>
+		<inverseDescription>1 Mauritanian Ouguiya = 0.04655332 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.41928036 JOD</title>
+		<link>http://www.floatrates.com/azn/jod/</link>
+		<description>1 Azerbaijan Manat = 0.41928036 Jordanian Dinar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.41928036</exchangeRate>
+		<inverseRate>2.38503895</inverseRate>
+		<inverseDescription>1 Jordanian Dinar = 2.38503895 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 1.74841041 GEL</title>
+		<link>http://www.floatrates.com/azn/gel/</link>
+		<description>1 Azerbaijan Manat = 1.74841041 Georgian lari</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>GEL</targetCurrency>
+		<targetName>Georgian lari</targetName>
+		<exchangeRate>1.74841041</exchangeRate>
+		<inverseRate>0.57194809</inverseRate>
+		<inverseDescription>1 Georgian lari = 0.57194809 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 0.59651917 BSD</title>
+		<link>http://www.floatrates.com/azn/bsd/</link>
+		<description>1 Azerbaijan Manat = 0.59651917 Bahamian Dollar</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>0.59651917</exchangeRate>
+		<inverseRate>1.67639206</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 1.67639206 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 5,484.30981084 GNF</title>
+		<link>http://www.floatrates.com/azn/gnf/</link>
+		<description>1 Azerbaijan Manat = 5,484.30981084 Guinean franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>GNF</targetCurrency>
+		<targetName>Guinean franc</targetName>
+		<exchangeRate>5,484.30981084</exchangeRate>
+		<inverseRate>0.00018234</inverseRate>
+		<inverseDescription>1 Guinean franc = 0.00018234 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 5,630.73555822 SLL</title>
+		<link>http://www.floatrates.com/azn/sll/</link>
+		<description>1 Azerbaijan Manat = 5,630.73555822 Sierra Leonean leone</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SLL</targetCurrency>
+		<targetName>Sierra Leonean leone</targetName>
+		<exchangeRate>5,630.73555822</exchangeRate>
+		<inverseRate>0.00017760</inverseRate>
+		<inverseDescription>1 Sierra Leonean leone = 0.00017760 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 8.16565663 SCR</title>
+		<link>http://www.floatrates.com/azn/scr/</link>
+		<description>1 Azerbaijan Manat = 8.16565663 Seychelles rupee</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>SCR</targetCurrency>
+		<targetName>Seychelles rupee</targetName>
+		<exchangeRate>8.16565663</exchangeRate>
+		<inverseRate>0.12246413</inverseRate>
+		<inverseDescription>1 Seychelles rupee = 0.12246413 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 3.95869089 DKK</title>
+		<link>http://www.floatrates.com/azn/dkk/</link>
+		<description>1 Azerbaijan Manat = 3.95869089 Danish Krone</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>3.95869089</exchangeRate>
+		<inverseRate>0.25260876</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.25260876 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 2.16233940 AED</title>
+		<link>http://www.floatrates.com/azn/aed/</link>
+		<description>1 Azerbaijan Manat = 2.16233940 U.A.E Dirham</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>2.16233940</exchangeRate>
+		<inverseRate>0.46246209</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.46246209 Azerbaijan Manat</inverseDescription>
+	</item>
+	<item>
+		<title>1 AZN = 349.15653909 XOF</title>
+		<link>http://www.floatrates.com/azn/xof/</link>
+		<description>1 Azerbaijan Manat = 349.15653909 West African CFA Franc</description>
+		<pubDate>Tue, 20 Aug 2019 12:00:02 GMT</pubDate>
+		<baseCurrency>AZN</baseCurrency>
+		<baseName>Azerbaijan Manat</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>349.15653909</exchangeRate>
+		<inverseRate>0.00286404</inverseRate>
+		<inverseDescription>1 West African CFA Franc = 0.00286404 Azerbaijan Manat</inverseDescription>
+	</item>
+</channel>

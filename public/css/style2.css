@@ -1,0 +1,275 @@
+.nav2bar{
+	background-color: rgba(52,58,64,0.9) !important;
+	border-radius: 10px 10px 0 0;
+}
+.navbar-tog-iconu{
+	display: inline-block;
+	width: 2em;
+	height: 2em;
+	vertical-align: middle;
+	content: "";
+	background: no-repeat center center;
+	background-size: 100%;
+}
+.logo-Div{
+	margin-left: 15px;
+	width: auto;
+	height: auto;
+	padding: 5px;
+	position: relative;
+	background: #f8f9fa;
+	border: 1px solid #ffa000;
+	border-radius: 50%;			
+}
+.logo-img{
+	position: relative;
+	width: 40px;
+	height: 40px; 
+}
+@media (min-width: 992px) {
+.from-lg-4{
+	-ms-flex: 0 0 33%;
+    flex: 0 0 33%;
+    max-width: 33%;
+}
+.mebleg-lg-4{
+	-ms-flex: 0 0 30%;
+    flex: 0 0 30%;
+    max-width: 30%;
+}
+.div-buton-deyis{
+	position: relative;
+	margin-left: 3px;
+}
+.to-lg{
+	-ms-flex: 0 0 30%;
+    flex: 0 0 30%;
+    max-width: 30%;
+}
+}
+.div-net{
+	width: 100%;
+	position: relative;
+	padding-right: 15px;
+	padding-left: 15px;	
+}
+.neticeDiv{
+	position: relative;
+  	padding: 0.75rem 1.25rem;
+  	margin-bottom: 1rem;
+    border: 1px solid #ffa000;
+	border-radius: 30px 30px 30px 30px;
+	background: rgba(235, 152, 78, 0.6);
+	display: block;
+	max-width: 800px;
+}
+#fromNet{
+	color: rgba(200,53,49,1);
+}
+#toNet{
+	color: rgba(0,103,205,1);
+}
+.timer{
+	margin-left: 10px;
+	margin-right: 10px;
+	position: relative;
+  	padding: 0.75rem 1.25rem;
+  	margin-bottom: 1rem;
+    border: 1px solid transparent;
+	border-radius: 30px 30px 30px 30px;
+	background: rgba(248,249,250,0.9);
+	/*font-family: "Times New Roman", Times, serif;*/
+	max-width: auto;
+}
+#update-time{
+	display: relative;
+	padding-left: 10px;
+	padding-top: auto;
+	padding-bottom: auto;
+	padding-right: auto;
+	margin-bottom: 5px;
+	margin-left: auto;
+	margin-top: auto;
+	margin-right: 10px;
+	max-width: 360px;
+	border: 1px solid #ffa000; 
+	width: auto;  
+	background: rgba(248,249,250,0.9);
+	border-radius: 15px 15px 15px 15px;
+
+}
+#chart{
+	position: absolute;
+	font-size: 2.2em;
+	left: 46px;
+	top: 24px;
+}
+canvas{
+	margin-left: -5px;
+}
+.stopBtn{
+	position: absolute;
+	left: 35px;
+	top: 17px;
+	width: 60px;
+	height: 60px;
+	background: transparent;
+	/*background: none;*/
+	border: none !important;
+	z-index: 1;
+}
+.playPause{
+	position: absolute;
+	width: 54px;
+	height: 54px;
+	opacity: 0.9;
+	left: 3px;
+	top: 3px;
+}
+.hide{
+	display: none;
+}
+.forSpan{
+	margin-left: 10px;
+}
+
+@media(max-width: 576px)
+{
+.boyuk{
+	width: 100%;
+	border-radius: 10px 10px 10px 10px;
+	margin-left: 0;
+	margin-right: 0;
+}  
+.nav1item{
+	margin-left: 0;
+}
+.lang-grup{ 
+	width: auto; 
+}.lang-btn{
+	padding-right: 2px;
+	padding-left: 2px;
+}
+.langua{
+	margin-left: auto;
+	float: right;
+}
+.con-verter{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: auto;
+}
+.inp-mebleg{
+	width: 100%;
+	height: 55px;
+}
+.drpMenuBtn{
+	width: 220px;
+	/*width: auto;*/
+	height: 55px;
+}
+
+.fromVal{
+	max-width: 80%;
+	height: 54px;
+}
+.drp-menyu{
+	width: 100%;
+}
+.drpsel{
+	max-width: 100%;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.labelity{
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.div-buton-deyis{
+	position: flex;
+	left: 3px;
+	margin-left: 3px;
+}
+.deyis-btn{
+	height: 53px;
+	width: 54px;
+}
+.img-sol-sag{
+	position: relative;
+	width: 2.5em;
+	height: 2.5em;
+	left: 0;
+	top: 0;
+}
+#lang-1{
+	display: block;
+	text-align: center;
+	font-size: 1.3em;
+	max-width: 150px;
+}
+#lang-6{
+	font-size: 1.6em;
+}
+.btn-img{
+	position: absolute;
+	width: 2.4rem;
+	height: 2.3rem;
+	border: 2px solid #ddd;
+	border-radius: 50%;
+	left: 10px;
+	top: 15%;
+	float: left;
+	z-index: 1;
+}
+.btn-txt{
+	position: absolute;
+	left: 90px;
+	top: 18%;
+	display:inline-block;
+	text-align: left;
+}
+.btn-txt-by{
+	font-size: 1.4em;
+	display: block;
+	font-style: bold;
+	/*font-family: "Times New Roman", Times, serif;*/
+	color: #1F618D;  
+}
+.btn-txt-kc{
+	display: none;
+}
+.fromto{
+	height: 53px;
+}
+.curaxtar{
+	position: absolute;
+	height: 52px;
+	font-size: 1em;
+}
+#langa{
+	font-size: 1.4em;
+}
+#netice-h3{
+	font-size: 1.2em;
+}
+#update-time{
+	margin-left: 10px;
+}
+.drp-sel{
+	display: block;
+	font-size: 0.8em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.drp-sel-img{
+	/*display: inline-block;*/
+	position: absolute;
+	left: 13px;
+	top: 11px;
+	/*margin-bottom: auto;*/
+}.labelity{
+	position: relative;
+	display: inline-flex;
+}
+}

@@ -1,0 +1,91 @@
+.ex-row{
+	margin-top: 30px;
+}
+.ul-xml{
+	list-style-type: none;
+}
+.xml-btn{
+	background: none;
+	outline: none;
+	border: none;
+	border-radius: 10px;
+	width: 100%;
+	font-size: 1.1em;
+	text-align: left;
+	color: white;
+}
+.xml-btn:hover{
+	background-color: rgba(182, 171, 169, 0.8);
+	color: #343a40;
+}
+.xml-list{
+	border-radius: 10px;
+	color: white;
+	padding: 10px;
+}
+.table-xml{
+	border-radius: 0 0 10px 10px;
+}
+.tbl-basliq{
+	width: 100%;
+	margin-top: 30px;
+}
+.tbl-basliq2{
+	padding: 10px;
+	height: auto;
+	border-radius: 10px;
+}
+.tbl-form{
+	margin-left: auto !important;
+	display: flex;
+	width: 50%;
+}
+.tbl-form2{
+	width: 50%;
+	margin-left: auto;
+	margin-right: 20px;
+}
+.tbl-dizayn{
+
+	display: flex;
+}
+.tbl-label{
+	display: flex;
+	width: auto;
+	font-size: 1.4em;
+	color: white;
+	margin: auto; 
+}
+.list-label{
+	margin: 5px;
+	padding-left: 5px;
+	padding-right: 5px; 
+	width: 90%;
+	font-size: 1.4em;
+	margin-left: 10px;
+	color: white;
+	border: 3px solid white;
+	border-radius: 15px;
+}
+.artimImg{
+	position: relative;
+	width: 10px;
+	height: 10px;
+	margin: auto;
+	margin-left: 23px;
+}
+.cntr{
+	text-align: center;
+}
+.buton-trx{
+	height: calc(1.6em + 0.75rem + 2px);
+	border-radius: 0 0.25rem 0.25rem 0;
+	border-left: none; 
+}
+.tarix{
+	max-width: 180px;
+}
+.xml-li{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}

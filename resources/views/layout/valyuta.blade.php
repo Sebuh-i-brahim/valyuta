@@ -24,17 +24,17 @@
 				</div>
 				<div class="nav-item input-group lang-grup">
 					<div class="ml-auto mr-auto dil-flex">
-						<form method="get" action="{{ '/home/az' }}">
+						<form method="get" action="@yield('az')">
 							<button type="submit" class="lang-btn" id="azbtn" value="az" name="lang">
 								<img src="{{URL::asset('/sekil/aze.svg')}}" class="lang-img"><span>Az</span>
 							</button>
 						</form>
-						<form method="get" action="{{ '/home/en' }}">
+						<form method="get" action="@yield('en')">
 							<button type="submit" class="lang-btn" id="engbtn" value="en" name="lang">
 							<img src="{{URL::asset('/sekil/uke.png')}}" class="lang-img"><span>Eng</span>
 							</button>
 						</form>
-						<form method="get" action="{{ '/home/ru' }}">
+						<form method="get" action="@yield('ru')">
 							<button type="submit" class="lang-btn" id="rubtn" value="ru" name="lang">
 							<img src="{{URL::asset('/sekil/rus.svg')}}" class="lang-img"><span>Ru</span>
 							</button>
@@ -59,7 +59,7 @@
 				<div class="collapse navbar-collapse" id="togl-item">
 					<div class="navbar-nav ml-auto mr-auto">
 						<div class="nav-item">
-							<a href="/" class="nav-link linkler" id="lang-3">{{$lang->lang3}}</a>
+							<a href="/" class="nav-link linkler @yield('inclass')" id="lang-3">{{$lang->lang3}}</a>
 						</div>
 						<div class="nav-item">
 							<a href="/exchange" class="nav-link linkler @yield('exclass')" id="lang-4">{{ $lang->lang4 }}</a>

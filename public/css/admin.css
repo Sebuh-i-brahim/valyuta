@@ -1,0 +1,196 @@
+
+.proPic{
+	top: 5px;
+	left: 10px;
+	width: 40px;
+	height: 40px;
+	border: 2px solid #6574cd;
+	border-radius: 50%;
+}
+.proName{
+	margin-left: 5px;
+	margin-right: 5px;
+	text-align: center;
+	margin-top: auto !important;
+	margin-bottom: auto !important;
+	color: white;
+	font-size: 1.1em;
+}
+.proName:hover{
+	cursor: pointer;
+}
+
+.dilButon {
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  padding: 5px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dilButon {
+    transition: none;
+  }
+}
+
+.dilButon:hover {
+  color: #212529;
+  text-decoration: none;
+}
+
+.dilButon:focus,
+.dilButon.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(52, 144, 220, 0.25);
+}
+.animasiya{
+	font-size: 1.2em !important;
+	text-align: left;
+	-webkit-transition: all .5s ease;
+  	-moz-transition: all .5s ease;
+	transition: all .5s ease;
+}
+.anime{
+	font-size: 0.9em !important;
+	color: #FF8800 !important;
+}
+.anime2{
+	position: absolute !important;
+	font-size: 0.9em !important;
+	color: #FF8800 !important;
+	top: -15px !important; 
+}
+.turuncu{
+	border-bottom: 1px solid #ffa000 !important;
+  	box-shadow: 0 1px 0 0 #ffa000 !important;
+}
+.turuncu-lbl{
+	color: #ffa000 !important;
+}
+.svg-color{
+	color: #ffa000 !important;
+}
+.inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+.inputfile + label {
+    font-size: 1.25em;
+    font-weight: 700;
+    color: white;
+    width: auto !important;
+    padding: 10px;
+     height: auto !important;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #3490dc;
+    display: inline-block;
+}
+
+.inputfile:focus + label,
+.inputfile + label:hover {
+    background-color: #5a95f5;
+    color: #fff;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+}
+.inputfile + label {
+	cursor: pointer; /* "hand" cursor */
+}
+.inputfile:focus + label {
+	outline: 1px dotted #000;
+	outline: -webkit-focus-ring-color auto 5px;
+}
+.inputfile + label * {
+	pointer-events: none;
+}
+.preview {
+    width: 270px;
+    height: 210px;
+    display: none;
+	border: 2px solid #ffa000;
+	border-radius: 5px;
+}
+.preview--rounded {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    display: none;
+    border: 2px solid #ffa000;
+}
+.photo__ilk{
+	width: 360px !important;
+  	height: 280px !important;	
+}
+
+.gorunus{
+	display: none !important;
+}
+.yuzFaiz{
+	width: 100% !important;
+}
+.fontOlcu{
+	font-size: 1.1em !important;
+}
+.range__ilk{
+	width: 360px !important;
+}
+.bag-color{
+	border: 2px solid #ffa000;
+	border-radius: 10px;
+}
+.setir{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+.en100{
+	width: 100%;
+}
+.foto__profil{
+	width: 280px !important;
+  	height: 280px !important;	
+}
+.foto__range{
+	width: 280px !important;
+}
+.foto__flex{
+	display: flex !important;
+}
+.profil--rounded {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 2px solid #ffa000;
+}
+.profil--rounded:hover{
+	cursor: pointer;
+}
+.bg-turuncu{
+	font-size: 1em !important;
+	border: 2px solid #ffa000;
+	border-radius: 10px;
+	-webkit-transition: all .5s ease;
+  	-moz-transition: all .5s ease;
+	transition: all .5s ease;
+}
+.bg-turuncu:hover{
+	background-color: #ffa000;
+	color: white;
+}
